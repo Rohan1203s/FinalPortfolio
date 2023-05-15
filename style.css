@@ -137,7 +137,7 @@ canvas {
 .work {
   background-image: linear-gradient(to bottom, rgb(192, 84, 84), rgb(94, 43, 90))!important;
   width: 100vw;
-  min-height:: 100vh;
+  min-height: 100vh;
 
 }
 
