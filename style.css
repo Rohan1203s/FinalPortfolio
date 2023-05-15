@@ -128,7 +128,7 @@ canvas {
 
 .education {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   background-image: url('https://cdn.centraljersey.com/wp-content/uploads/sites/26/2016/02/nt-mar-high-11.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -137,14 +137,14 @@ canvas {
 .work {
   background-image: linear-gradient(to bottom, rgb(192, 84, 84), rgb(94, 43, 90))!important;
   width: 100vw;
-  height: 100vh;
+  min-height:: 100vh;
 
 }
 
 .interest {
   background-image: linear-gradient(to bottom, #295854, rgb(91, 43, 100))!important;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   z-index:5;
 
 }
@@ -152,7 +152,7 @@ canvas {
 .contact {
   background-image: linear-gradient(to bottom, rgb(192, 84, 84), rgb(0, 0, 0))!important;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .ball-text {
